@@ -1,0 +1,64 @@
+body {
+	width: 88%;
+	align-content: center;
+	margin: auto;
+}
+
+body article .search {
+	background-color: #eeeeee;
+}
+
+body article .search p {
+	padding: 0px;
+	margin: 0px;
+}
+
+#S-input {
+	display: block;
+	width: 20%;
+}
+
+body article .list {
+	float: left;
+	margin: 0.5px
+}
+
+body article .list ul{
+	list-style: none;
+	margin: 1px;
+	padding: 10px 0px;
+}
+
+body article .list ul li{
+	text-align: center;
+}
+
+body article .list-one {
+	background-color: #7EE5DA;
+}
+
+body article .list-two ul {
+	background-color: #70CCC2;
+}
+
+body article .list-two ul li{
+	font-size: 12.9px;
+}
+
+body article .list-three {
+	background-color: #62B3AA;
+	text-align: center;
+	padding: 4.4px 0px;
+}
+
+body article .list-three p{
+	font-size: 12px;
+	padding: 0px;
+	margin: 0px;
+}
+
+body article .list-three input{
+	margin-right: auto;
+	margin-left: auto;
+}
+
